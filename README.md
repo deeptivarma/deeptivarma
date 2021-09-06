@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deeptivarma
 - 👀 I’m interested in playing around with data.
 - 🌱 I’m currently learning PowerBI and AWS
-- 💞️ I’m looking to collaborate on projects related to Web development, Python and DBMS
+- 🤝 I’m looking to collaborate on projects related to Web development, Python and DBMS
 
     Technologies and Tools
     
